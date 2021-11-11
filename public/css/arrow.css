@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica, sans-serif;
+    background: #fff repeat-x;
+    font: 14px/18px Verdana, sans_serif;
+    line-height: 22px;
+}
+
+#page {
+    max-width: 720px;
+    margin: 0 auto;
+}
+#copyrights,
+.copy {
+    font-size: 10px;
+    text-align: center;
+    padding: 10px 0 4px 0;
+}
+h2 {
+    color: #090;
+}
+h4 {
+    font-size: 16px;
+    margin: 12px 0 -12px 12px;
+    color: #930;
+}
+.codeBlok {
+    display: block;
+    font-size: 13px;
+    line-height: 20px;
+    color: #009;
+    font-family: Courier, "Courier New", "American Typewriter", monospace;
+    margin: 4px 0;
+}
